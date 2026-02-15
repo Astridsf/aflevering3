@@ -33,14 +33,3 @@ class ProductInventory(private val productsList: MutableList<Product>) {
 
 }
 
-
-
-//find product
-    //remove quantity
-/*
-    fun display()
-
-}
-//hashmap kan man slå op
-
- */
